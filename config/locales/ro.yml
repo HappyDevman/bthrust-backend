@@ -1,0 +1,284 @@
+---
+ro:
+  frontend:
+    auth:
+      already_have_acc_question: ai deja un cont?
+      back: Înapoi
+      back_to_sign_in: Înapoi la Conectare
+      check_your_email_for_a_code: Verificați-vă codul prin e-mail
+      continue: Continua
+      continue_with_email: Continuați cu e-mailul
+      continue_with_provider: Continuați cu %{provider}
+      did_not_receive_a_code: Nu ați primit un cod?
+      email_address: Adresa de email
+      first_name: Nume
+      get_unique_code: Obțineți un cod de autentificare unic
+      join_lingu: Alătură-te lui Lingu
+      last_name: Numele de familie
+      more_login_options: Mai multe opțiuni de autentificare
+      no_account_question: Nu aveți un cont?
+      or: sau
+      resend_code: Retrimite codul
+      sign_in: conectare
+      sign_up: Inscrie-te
+      want_to_receive_marketing_messages: Vreau să primesc mesaje de marketing de
+        la Lingu
+      we_ve_sent_a_code: >-
+        Am trimis un cod din 6 cifre la <strong> {{email}} </strong>. Codul expiră
+        peste 15 minute, așa că vă rugăm să îl introduceți în curând.
+    course:
+      accredited_course_provider: Furnizor de curs acreditat
+      apply: Aplica
+      by: De
+      category: Categorie
+      clear: clar
+      clear_filters: Ștergeți filtrele
+      contact_us: Contactează-ne
+      course_language: Limbajul cursului
+      duration: Durată
+      filters: Filtre
+      focus_on: Concentrează-te pe
+      hide_lessons: Ascunde lecțiile
+      hours: Ore
+      i_understand: Înțeleg
+      i_want_to_learn: vreau să învăț
+      language: Limba
+      learn_more: Aflați mai multe
+      less_settings: Mai puține setări
+      lessons: Lecții
+      lessons_available: "%{number} lecții disponibile"
+      lessons_catalog_page_subtitle: Lecții online pentru a vorbi fluent și încrezător
+      lessons_catalog_page_title: Învață limbi ușor și eficient cu Lingu
+      level: Nivel
+      min: Min
+      more_settings: Mai multe setari
+      or: sau
+      plans: Planuri
+      privacy_policy: Politica de Confidențialitate
+      rating: Evaluare
+      reviews: Recenzii
+      save: Salvați
+      search: Căutare
+      select_languages: Selectați langauges
+      select_num_languages: Selectați limbile %{number}
+      show_all_lessons: Afișați toate lecțiile
+      show_lessons: Afișați lecțiile %{number}
+      show_more: Afișați mai multe
+      sort_by: Filtrează după
+      start_typing_here: Începeți să tastați aici
+      teach: A preda
+      terms_and_conditions: Termeni si conditii
+      try_this_course: Încercați acest curs
+      website_language: Limba site-ului web
+      words: Cuvinte
+    games:
+      flashcard:
+        buttons:
+          finish: finalizarea
+          next: Următor →
+          previous: Anterior
+        check_out_new_words: Consultați noile cuvinte pe care le veți învăța în această
+          lecție
+        frequency_of_word_usage: Frecvența utilizării cuvintelor în %{language}
+        keep_practice_to_learn_all_words: Examinați cuvintele %{count} și să jucăm
+          câteva jocuri!
+        word_frequency:
+          level1: Folosit rar
+          level2: Folosit rar
+          level3: Frecvența cuvintelor - medie
+          level4: Frecvența cuvintelor - medie
+          level5: Uzual
+          level6: Foarte comun
+      match_word:
+        click_and_move_each_word_to_counterpart: Faceți clic și mutați fiecare cuvânt
+          la omologul său
+        skip_tutorial: Hopp peste
+        time_is_up: Opp med farta!
+      word_nodes:
+        match_letters_to_form_word: Potriviți literele pentru a forma un cuvânt
+      word_waterfall:
+        do_not_hesitate: Să grăbim!
+        go_to_next_exercise: Mergeți la următorul exercițiu
+        select_correct_translation: Selectați potrivirea corectă
+        well_done: Foarte bine!
+    home_page:
+      hello: Salut,
+      popular_lessons: Lecții populare
+      show_more: Afișați mai multe
+      time: "%{count} min"
+      today_lesson: Lecția ta de azi
+      user_name: "%{name}!"
+      words: "%{count} cuvinte"
+    idle_screen:
+      by_author: de %{authorName}
+      continue_lesson: Continuați lecția
+      exit: Ieșire
+      idle_message: Ești inactiv de ceva timp ...
+    lesson_page:
+      back_to_course_page: Înapoi la pagina cursului
+      continue_lesson: Continuați lecția
+      followed: Urmărit
+      lesson_given: lecții
+      not_started: nu a început
+      or: Sau
+      part_complete: "%{percent}% completat"
+      restart_lesson: Repornire
+      section_check: Verifica
+      section_check_info: testele %{count}
+      section_learn: Învăța
+      section_learn_info: "%{count} min pentru a viziona și a citi"
+      section_play: Joaca
+      section_play_info: "%{count} cuvinte de exersat"
+      start_lesson: Începeți lecția
+      step_progress: "%{percent}%"
+      subscribe: Urma
+      subscribed: Urmărit
+      subscribers: adepți
+      time_min: "%{minutesNumber} min"
+      unsubscribe: Abandonați-vă
+      words_number: "%{wordsNumber} cuvinte noi"
+    lesson_task:
+      cancel_button: Anulare
+      check:
+        navigation_next: Următor →
+        navigation_previous: Anterior
+        navigation_skip: Ocolire
+      controls_panel:
+        font_size_button: Marimea fontului
+        high_contrast_button:
+          origin: Contrast mare
+          short: Contrast
+        hints_button: Sugestii
+        music_playback_button:
+          origin: Redarea muzicii
+          short: Muzică
+        sound_effects_button:
+          origin: Efecte sonore
+          short: Sunet
+      exit_button: Ieșire
+      finish_button: finalizarea
+      finished:
+        back_to_learn: Înapoi pentru a învăța
+        back_to_lesson_page: Înapoi la pagina lecției
+        back_to_results_page: Înapoi pe pagina de rezultate
+        close_lesson: Închideți lecția
+        correct_answers_list: Lista de răspunsuri corecte
+        next_course_lesson: Mergeți la lecția următoare din curs
+        no_results: Nu aveți încă rezultate de testare
+        no_results_text: Vă rugăm să completați lecția și să treceți testul pentru
+          a obține rezultatele
+        see_correct_answers_list: Vezi lista de răspunsuri corecte
+        you_finished_lesson: Grozav! Ai terminat lecția
+      go_back: Întoarce-te
+      next_button: Următor →
+      not_available_task: Această sarcină nu este încă disponibilă
+      start_button: start
+      tasks:
+        check:
+          fill_in_table:
+            column_answer_placeholder: Răspuns
+            column_question_placeholder: Întrebare
+            example: Exemplu
+        learn:
+          translatable_text:
+            show_original: Afișați originalul
+            translate_into: Traduceți cu Google în %{languageName}
+            translate_into_your_lang: Traduceți cu Google în limba dvs.
+        play:
+          arrange_words:
+            start_screen:
+              heading: Alcătuiește o frază din cuvintele date
+          audition:
+            start_screen:
+              heading: Ascultați sunetul și atingeți cuvântul pe care tocmai l-ați
+                auzit
+          fill_gap:
+            start_screen:
+              heading: Potriviți cuvântul și semnificația acestuia
+          finish_screen:
+            go_to_next_exercise: Foarte bine! Mergeți la următorul exercițiu
+          image_hotspot:
+            start_screen:
+              heading: Denumiți corect obiectele din imagine
+          image_object:
+            start_screen:
+              heading: Alegeți obiectul potrivit din imaginea următoare
+          inline_dropdown:
+            start_screen:
+              heading: Alegeți cuvintele care se potrivesc cu propoziția
+          mark_word:
+            start_screen:
+              heading: Citiți textul și selectați cuvântul care se potrivește cu imaginea
+          minimal_pairs:
+            start_screen:
+              heading: Urmăriți videoclipul și selectați opțiunea corectă
+    locale:
+      currency_switcher_title: Comutator valutar
+      lang_switcher_title: Comutator de limbă
+      locales:
+        bg: Български
+        de: Deutsch
+        en: Engleză
+        es: Español
+        fr: Français
+        it: Italiano
+        lt: Lietuvių kalba
+        lv: Latviešu valoda
+        nb: Norsk
+        nl: Nederlands
+        pl: Polski
+        pt: Português
+        ro: Limba română
+        ru: Русский язык
+        so: af Soomaali
+        sr: Сербский
+        sw: kiSwahili
+        tr: Türkçe
+        uk: Українська
+    media_player:
+      audio_player:
+        aria_loading_button: Sunetul se încarcă
+        aria_pause_button: Pauză
+        aria_play_button: Joaca
+        aria_reload_button: Reîncarcă
+        aria_stop_button: Stop
+        reload_message: >-
+          Încărcarea audio nu a reușit. Vă rugăm să faceți clic pe butonul pentru
+          a reîncărca.
+    page404:
+      goToStartLessonPage: Accesați pagina de lecție de început
+      ooops: Oooops ...
+      sorry_message: Ne pare rău, Tor nu a putut găsi această pagină
+    profile:
+      navigation:
+        log_out: Deconectează-te
+        my_profile: Profilul meu
+        settings: Setări
+      onboarding:
+        choose_native_language: Alegeți limba maternă sau limba pe care o înțelegeți
+        do_you_understand_english: Intelegi engleza?
+        hello: Salut
+        language_levels:
+          a1: Nivel elementar
+          a2: Nivel pre-intermediar
+          b1: Nivel intermediar
+          b2: Nivel intermediar superior
+          c1: Nivel avansat
+          no_knowledge: Fără cunoștințe
+        language_not_supported:
+          note: Vă vom notifica de îndată ce limba va fi disponibilă
+          title: Ne pare rău, dar încă nu acceptăm această limbă
+          try_another_language: Încercați o altă limbă
+        'no': Nu
+        search_placeholder: Căutare...
+        show_more_languages: Alte limbi
+        target_language_question: Ce limba vrei sa inveti?
+        what_is_language_level: Cum ați evalua nivelul dvs. %{languageName}?
+        'yes': da
+    teacher_card:
+      followers_count:
+        one: 1 adept
+        other: "%{count} followers"
+      lessons_count:
+        one: 1 lecție
+        other: "%{count} lecții"

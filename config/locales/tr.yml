@@ -1,0 +1,279 @@
+---
+tr:
+  frontend:
+    auth:
+      already_have_acc_questions: Hesap hakkında sorunuz var mı?
+      back: Geri
+      back_to_sign_in: Oturum açmaya geri dön
+      check_your_email_for_a_code: Kod için e-postanızı kontrol edin.
+      continue: Devam et
+      continue_with_email: E-posta ile devam edin.
+      continue_with_provider: Saglayici ile devam edin"
+      did_not_receive_a_code: Bir kod almadınız mı?
+      email_address: E-mail
+      first_name: İsim
+      get_unique_code: Farklı bir giriş kod alın
+      join_lingu: Lingu'ya Katılın
+      last_name: Soyadı
+      more_login_options: Daha fazla giriş seçeneği
+      no_account_question: Hesabıniz yok mu?
+      or: veya
+      resend_code: Yeniden kod gönderme
+      sign_in: oturum aç
+      sign_up: kaydol
+      want_to_receive_marketing_messages: Lingu'dan pazarlama mesajları almak istiyorum
+      we_ve_sent_a_code: >-
+        <strong> {{email}} </strong> adresine 6 haneli bir kod gönderdik. Kodun süresi
+        15 dakika içinde dolar, bu yüzden lütfen kısa süre içinde girin.
+    course:
+      accredited_course_provider: Akredite kurs sağlayıcısi
+      apply: Uygulamak
+      by: Tarafından
+      category: Kategori
+      clear: Temizle
+      clear_filters: Filtreleri temizle
+      contact_us: Bize Ulaşın
+      course_language: Kurs dili
+      duration: Süresi
+      filters: Filtreler
+      focus_on: Odaklan
+      hide_lessons: Dersleri gizle
+      hours: Saatler
+      i_understand: anladim
+      i_want_to_learn: öğrenmek istiyorum
+      language: Dil
+      learn_more: Daha fazla bilgi edin
+      less_settings: Daha az ayar
+      lessons: Dersler
+      lessons_available: "%{number} mevcut dersler"
+      lessons_catalog_page_subtitle: Altyazili dersler
+      lessons_catalog_page_title: Linguistics ile dilleri kolay ve verimli bir şekilde
+        öğrenin
+      level: Seviye
+      min: dakika
+      more_settings: Daha fazla ayar
+      or: veya
+      plans: Planlar
+      privacy_policy: Gizlilik Politikası
+      rating: Değerlendirme
+      reviews: Yorumlar
+      save: Kayıt etmek
+      search: Arama
+      select_languages: Dilleri seçin
+      select_num_languages: dillerini seçin"
+      show_all_lessons: Tüm dersleri göster
+      show_lessons: dersleri göster"
+      show_more: Daha fazla göster
+      sort_by: Göre sırala
+      start_typing_here: Buraya yazmaya başlayın
+      teach: Öğret
+      terms_and_conditions: Şartlar ve koşullar
+      try_this_course: Bu kursu dene
+      website_language: Web sitesi dili
+      words: Kelimeler
+    games:
+      flashcard:
+        buttons:
+          finish: Bitiş
+          next: Sonraki
+          previous: Önceki
+        check_out_new_words: Bu derste öğreneceğiniz yeni kelimelere bir göz atın
+        frequency_of_word_usage: "%{language}'da kelime kullanım sıklığı"
+        keep_practice_to_learn_all_words: Kelimeleri gözden geçirin ve biraz oyun
+          oynayalım!"
+        word_frequency:
+          level1: Nadiren kullanılmış
+          level2: Nadiren kullanılmış
+          level3: Kelime frekansı - orta
+          level4: Kelime frekansı - orta
+          level5: Yaygın
+          level6: Çok yaygın
+      match_word:
+        click_and_move_each_word_to_counterpart: Her kelimeyi tıklayın ve karşılığına
+          taşıyın
+        skip_tutorial: Tanitimi gec.
+        time_is_up: Zaman doldu.
+      word_nodes:
+        match_letters_to_form_word: Bir kelime oluşturmak için harfleri eşleştirin.
+      word_waterfall:
+        do_not_hesitate: Hadi hızlanalım!
+        go_to_next_exercise: Bir sonraki egzersize git.
+        select_correct_translation: Doğru eşleşmeyi seçin.
+        well_done: Aferin!
+    home_page:
+      hello: Merhaba,
+      popular_lessons: Popüler dersler
+      show_more: Daha fazla göster
+      time: "%{count} dk"
+      today_lesson: Bugünkü ders
+      user_name: "%{name}!"
+      words: "%{count} kelimeler"
+    idle_screen:
+      by_author: "%{authorName} tarafından"
+      continue_lesson: Derse devam et
+      exit: çıkış
+      idle_message: Bir süredir boşta kaldın ...
+    lesson_page:
+      back_to_course_page: Kurs sayfasına dön
+      continue_lesson: Derse devam et
+      followed: Takip ettiklerin
+      lesson_given: verilen dersler
+      not_started: başlatılmadı
+      or: Veya
+      part_complete: "%{percent}% tamamlandı"
+      restart_lesson: Dersi tekrar başlat
+      section_check: Bolum kontrolu
+      section_check_info: "%{count} bolum kontrolu bilgisi"
+      section_learn: bolumu oğrenin
+      section_learn_info: "%{count} öğrenme bolumu"
+      section_play: bolumu oyna
+      section_play_info: "%{count} bolum oyunu bilgisi"
+      start_lesson: Dersi başlat
+      step_progress: adim ilerlemesi
+      subscribe: Takip et
+      subscribed: Takip etti
+      subscribers: takipçiler
+      time_min: "%{minutesNumber} dk"
+      unsubscribe: Takibi bırak
+      words_number: "%{wordsNumber} yeni kelime"
+    lesson_task:
+      cancel_button: İptal etmek
+      check:
+        navigation_next: Sonraki
+        navigation_previous: Önceki
+        navigation_skip: Atla
+      controls_panel:
+        font_size_button: Yazı Boyutu
+        high_contrast_button:
+          origin: Yüksek kontrast
+          short: Kontrast
+        hints_button: İpuçları
+        music_playback_button:
+          origin: Müzik çalma
+          short: Müzik
+        sound_effects_button:
+          origin: Ses efektleri
+          short: Ses
+      exit_button: çıkış
+      finish_button: Bitiş
+      finished:
+        back_to_learn: Öğrenmeye geri dön
+        back_to_lesson_page: Ders sayfasına geri dön
+        back_to_results_page: Sonuç sayfasına geri dön
+        close_lesson: Dersi kapat
+        correct_answers_list: Doğru cevap listesi
+        next_course_lesson: bir sonraki derse git
+        no_results: Henüz test sonucunuz yok
+        no_results_text: Lütfen dersi tamamlayın ve sonuçları almak için testi geçin
+        see_correct_answers_list: Doğru cevap listesini görün
+        you_finished_lesson: Harika! Dersi bitirdin
+      go_back: Geri dön
+      next_button: Sonraki
+      not_available_task: Bu görev henüz mevcut değil
+      start_button: Başlat
+      tasks:
+        check:
+          fill_in_table:
+            column_answer_placeholder: Cevap
+            column_question_placeholder: Soru
+            example: Ornek
+        learn:
+          translatable_text:
+            show_original: Orjinali göster
+            translate_into: Google ile %{languageName} diline çevirin
+            translate_into_your_lang: Google ile kendi dilinize çevirin
+        play:
+          arrange_words:
+            start_screen:
+              heading: Verilen kelimelerden bir cümle yapın
+          audition:
+            start_screen:
+              heading: Sesi dinleyin ve az önce duyduğunuz kelimeye dokunun
+          fill_gap:
+            start_screen:
+              heading: Kelimeyi ve anlamını eşleştirin
+          finish_screen:
+            go_to_next_exercise: Aferin! Bir sonraki egzersize git
+          image_hotspot:
+            start_screen:
+              heading: Resimdeki nesneleri doğru şekilde adlandırın
+          image_object:
+            start_screen:
+              heading: Sonraki resimden doğru nesneyi seçin
+          inline_dropdown:
+            start_screen:
+              heading: Cümleyle eşleşen kelimeleri seçin
+          mark_word:
+            start_screen:
+              heading: Metni okuyun ve resimle eşleşen kelimeyi seçin
+          minimal_pairs:
+            start_screen:
+              heading: Videoyu izleyin ve doğru seçeneği seçin
+    locale:
+      currency_switcher_title: geçerli dil seçeneğindeki
+      lang_switcher_title: Dil değiştirici
+      locales:
+        bg: Български
+        de: Deutsch
+        en: ingilizce
+        es: Español
+        fr: Français
+        it: Italiano
+        lt: Lietuvių kalba
+        lv: Latviešu valoda
+        nb: Norsk
+        nl: Nederlands
+        pl: Polski
+        pt: Português
+        ro: Limba română
+        ru: Русский язык
+        so: af Soomaali
+        sr: Irisбский
+        sw: kiSwahili
+        tr: Türkçe
+        uk: Українська
+    media_player:
+      audio_player:
+        aria_loading_button: Ses yükleyici
+        aria_pause_button: ses durdurma tuşu
+        aria_play_button: Sesi oynat
+        aria_reload_button: Sesi tekrar yükle
+        aria_stop_button: sesi durdur
+        reload_message: Ses yüklenemedi. Yeniden yüklemek için lütfen düğmeye basın.
+    page404:
+      goToStartLessonPage: Başlangıç ders sayfasına gidin
+      ooops: Oooops ...
+      sorry_message: Maalesef Tor bu sayfayı bulamadı
+    profile:
+      navigation:
+        log_out: Çıkış Yap
+        my_profile: Benim profilim
+        settings: Ayarlar
+      onboarding:
+        choose_native_language: Anadilinizi veya anladığınız dili seçin
+        do_you_understand_english: İngilizce anlıyor musun?
+        hello: Merhaba
+        language_levels:
+          a1: Başlangıç seviyesi
+          a2: Orta-öncesi seviye
+          b1: Orta düzey
+          b2: Üst orta seviye
+          c1: İleri düzey
+          no_knowledge: Bilgi yok
+        language_not_supported:
+          note: Dil hazır olur olmaz sizi bilgilendireceğiz
+          title: Maalesef bu dili henüz desteklemiyoruz
+          try_another_language: Başka bir dil dene
+        'no': Hayır
+        search_placeholder: Arama...
+        show_more_languages: Diğer diller
+        target_language_question: Hangi dili öğrenmek istiyorsun?
+        what_is_language_level: "%{languageName} seviyenizi nasıl değerlendirirsiniz?"
+        'yes': Evet
+    teacher_card:
+      followers_count:
+        one: 1 takipçi
+        other: "%{count} takipçi"
+      lessons_count:
+        one: 1 ders
+        other: "%{count} dersleri"

@@ -1,0 +1,282 @@
+---
+nl:
+  frontend:
+    auth:
+      already_have_acc_question: Heb je al een account?
+      back: Terug
+      back_to_sign_in: Terug naar Inloggen
+      check_your_email_for_a_code: Controleer uw e-mail voor uw code
+      continue: Doorgaan met
+      continue_with_email: Ga verder met e-mail
+      continue_with_provider: Ga verder met %{provider}
+      did_not_receive_a_code: Geen code ontvangen?
+      email_address: E-mailadres
+      first_name: Voornaam
+      get_unique_code: Krijg een unieke inlogcode
+      join_lingu: Sluit je aan bij Lingu
+      last_name: Achternaam
+      more_login_options: Meer inlogopties
+      no_account_question: Nog geen account?
+      or: of
+      resend_code: Code nogmaals versturen
+      sign_in: Aanmelden
+      sign_up: Inschrijven
+      want_to_receive_marketing_messages: Ik wil marketingberichten van Lingu ontvangen
+      we_ve_sent_a_code: >-
+        We hebben een 6-cijferige code gestuurd naar <strong> {{email}} </strong>.
+        De code verloopt over 15 minuten, dus voer deze binnenkort in.
+    course:
+      accredited_course_provider: Geaccrediteerde cursusaanbieder
+      apply: Van toepassing zijn
+      by: Door
+      category: Categorie
+      clear: Doorzichtig
+      clear_filters: Wis filters
+      contact_us: Neem contact met ons op
+      course_language: Cursustaal
+      duration: Looptijd
+      filters: Filters
+      focus_on: Focussen op
+      hide_lessons: Verberg lessen
+      hours: Uren
+      i_understand: Ik begrijp het
+      i_want_to_learn: Ik wil leren
+      language: Taal
+      learn_more: Leer meer
+      less_settings: Minder instellingen
+      lessons: Lessen
+      lessons_available: "%{number} lessen beschikbaar"
+      lessons_catalog_page_subtitle: Online lessen voor vloeiend en zelfverzekerd
+        spreken
+      lessons_catalog_page_title: Leer talen gemakkelijk en efficiënt met Lingu
+      level: Niveau
+      min: Min
+      more_settings: Meer instellingen
+      or: of
+      plans: Plannen
+      privacy_policy: Privacybeleid
+      rating: Beoordeling
+      reviews: Beoordelingen
+      save: Sparen
+      search: Zoeken
+      select_languages: Selecteer talen
+      select_num_languages: Selecteer %{number}-talen
+      show_all_lessons: Toon alle lessen
+      show_lessons: Laat %{number} lessen zien
+      show_more: Laat meer zien
+      sort_by: Sorteer op
+      start_typing_here: Begin hier met typen
+      teach: Onderwijzen
+      terms_and_conditions: Voorwaarden
+      try_this_course: Probeer deze cursus
+      website_language: Website taal
+      words: Woorden
+    games:
+      flashcard:
+        buttons:
+          finish: Af hebben
+          next: De volgende
+          previous: Vorige
+        check_out_new_words: Bekijk de nieuwe woorden die u in deze les zult leren
+        frequency_of_word_usage: Frequentie van woordgebruik in %{language}
+        keep_practice_to_learn_all_words: Bekijk de %{count}-woorden en laten we wat
+          spelletjes spelen!
+        word_frequency:
+          level1: Zelden gebruikt
+          level2: Zelden gebruikt
+          level3: Woordfrequentie - gemiddeld
+          level4: Woordfrequentie - gemiddeld
+          level5: Gemeenschappelijk
+          level6: Heel gewoon
+      match_word:
+        click_and_move_each_word_to_counterpart: Klik en verplaats elk woord naar
+          zijn tegenhanger
+        skip_tutorial: Hopp over
+        time_is_up: Opp med farta!
+      word_nodes:
+        match_letters_to_form_word: Combineer letters om een woord te vormen
+      word_waterfall:
+        do_not_hesitate: Laten we versnellen!
+        go_to_next_exercise: Ga naar de volgende oefening
+        select_correct_translation: Selecteer de juiste match
+        well_done: Goed gedaan!
+    home_page:
+      hello: Hallo,
+      popular_lessons: Populaire lessen
+      show_more: Laat meer zien
+      time: "%{count} min"
+      today_lesson: Uw les voor vandaag
+      user_name: "%{name}!"
+      words: "%{count} woorden"
+    idle_screen:
+      by_author: door %{authorName}
+      continue_lesson: Ga door met de les
+      exit: Uitgang
+      idle_message: Je zit al een tijdje stil ...
+    lesson_page:
+      back_to_course_page: Terug naar cursuspagina
+      continue_lesson: Ga door met de les
+      followed: Gevolgd
+      lesson_given: lessen
+      not_started: niet begonnen
+      or: Of
+      part_complete: "%{percent}% voltooid"
+      restart_lesson: Herstarten
+      section_check: Controleren
+      section_check_info: "%{count} tests"
+      section_learn: Leren
+      section_learn_info: "%{count} min om te bekijken en te lezen"
+      section_play: Speel
+      section_play_info: "%{count} woorden om te oefenen"
+      start_lesson: Start de les
+      step_progress: "%{percent}%"
+      subscribe: Volgen
+      subscribed: Gevolgd
+      subscribers: volgers
+      time_min: "%{minutesNumber} min"
+      unsubscribe: Ontvolgen
+      words_number: "%{wordsNumber} nieuwe woorden"
+    lesson_task:
+      cancel_button: annuleren
+      check:
+        navigation_next: De volgende
+        navigation_previous: Vorige
+        navigation_skip: Overspringen
+      controls_panel:
+        font_size_button: Lettertypegrootte
+        high_contrast_button:
+          origin: Hoog contrast
+          short: Contrast
+        hints_button: Tips
+        music_playback_button:
+          origin: Muziek afspelen
+          short: Muziek
+        sound_effects_button:
+          origin: Geluidseffecten
+          short: Geluid
+      exit_button: Uitgang
+      finish_button: Af hebben
+      finished:
+        back_to_learn: Terug om te leren
+        back_to_lesson_page: Terug naar de lespagina
+        back_to_results_page: Terug op de resultatenpagina
+        close_lesson: Sluit de les
+        correct_answers_list: Lijst met juiste antwoorden
+        next_course_lesson: Ga naar de volgende les in de cursus
+        no_results: U heeft nog geen testresultaten
+        no_results_text: Voltooi de les en slaag voor de test om de resultaten te
+          krijgen
+        see_correct_answers_list: Zie de juiste antwoordenlijst
+        you_finished_lesson: Super goed! Je bent klaar met de les
+      go_back: Ga terug
+      next_button: De volgende
+      not_available_task: Deze taak is nog niet beschikbaar
+      start_button: Begin
+      tasks:
+        check:
+          fill_in_table:
+            column_answer_placeholder: Antwoord
+            column_question_placeholder: Vraag
+            example: Voorbeeld
+        learn:
+          translatable_text:
+            show_original: Toon origineel
+            translate_into: Vertaal met Google naar %{languageName}
+            translate_into_your_lang: Vertaal met Google naar uw taal
+        play:
+          arrange_words:
+            start_screen:
+              heading: Maak een zin uit de gegeven woorden
+          audition:
+            start_screen:
+              heading: Luister naar de audio en tik op het woord dat je zojuist hebt
+                gehoord
+          fill_gap:
+            start_screen:
+              heading: Overeenkomen met het woord en de betekenis ervan
+          finish_screen:
+            go_to_next_exercise: Goed gedaan! Ga naar de volgende oefening
+          image_hotspot:
+            start_screen:
+              heading: Geef de objecten in de afbeelding de juiste naam
+          image_object:
+            start_screen:
+              heading: Kies het juiste object uit de volgende afbeelding
+          inline_dropdown:
+            start_screen:
+              heading: Kies de woorden die bij de zin passen
+          mark_word:
+            start_screen:
+              heading: Lees de tekst en selecteer het woord dat bij de afbeelding
+                past
+          minimal_pairs:
+            start_screen:
+              heading: Bekijk de video en selecteer de juiste optie
+    locale:
+      currency_switcher_title: Valutawisselaar
+      lang_switcher_title: Taalwisselaar
+      locales:
+        bg: Български
+        de: Deutsch
+        en: Engels
+        es: Español
+        fr: Français
+        it: Italiano
+        lt: Lietuvių kalba
+        lv: Latviešu valoda
+        nb: Norsk
+        nl: Nederlands
+        pl: Polski
+        pt: Português
+        ro: Limba română
+        ru: Русский язык
+        so: van Soomaali
+        sr: Сербский
+        sw: kiSwahili
+        tr: Türkçe
+        uk: Українська
+    media_player:
+      audio_player:
+        aria_loading_button: Audio wordt geladen
+        aria_pause_button: Pauze
+        aria_play_button: Speel
+        aria_reload_button: Herlaad
+        aria_stop_button: Hou op
+        reload_message: Kan audio niet laden. Klik op de knop om opnieuw te laden.
+    page404:
+      goToStartLessonPage: Ga naar de startpagina van de les
+      ooops: Ooeps ...
+      sorry_message: Tor kan deze pagina niet vinden
+    profile:
+      navigation:
+        log_out: Uitloggen
+        my_profile: Mijn profiel
+        settings: Instellingen
+      onboarding:
+        choose_native_language: Kies uw moedertaal of taal die u begrijpt
+        do_you_understand_english: Begrijp je Engels?
+        hello: Hallo
+        language_levels:
+          a1: Elementair niveau
+          a2: Pre-intermediair niveau
+          b1: Gemiddeld niveau
+          b2: Bovengemiddeld niveau
+          c1: Gevorderd niveau
+          no_knowledge: Geen kennis
+        language_not_supported:
+          note: We laten het je weten zodra de taal beschikbaar is
+          title: Sorry, maar we ondersteunen deze taal nog niet
+          try_another_language: Probeer een andere taal
+        'no': Nee
+        search_placeholder: Zoeken...
+        show_more_languages: Andere talen
+        target_language_question: Welke taal wil je leren?
+        what_is_language_level: Hoe zou u uw %{languageName}-niveau beoordelen?
+        'yes': Ja
+    teacher_card:
+      followers_count:
+        one: 1 volger
+        other: "%{count} volgers"
+      lessons_count:
+        one: 1 les
+        other: "%{count} lessen"

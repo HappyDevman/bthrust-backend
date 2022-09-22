@@ -1,0 +1,279 @@
+---
+sr:
+  frontend:
+    auth:
+      already_have_acc_question: Већ имате налог?
+      back: Назад
+      back_to_sign_in: Назад на Пријави се
+      check_your_email_for_a_code: Потражите свој код у својој е-пошти
+      continue: Настави
+      continue_with_email: Наставите са е-поштом
+      continue_with_provider: Наставите са зкзкзк0
+      did_not_receive_a_code: Нисте добили код?
+      email_address: Адреса Е-поште
+      first_name: Име
+      get_unique_code: Набавите јединствени код за пријаву
+      join_lingu: Придружите се Лингу
+      last_name: Презиме
+      more_login_options: Више опција за пријављивање
+      no_account_question: Немате налог?
+      or: или
+      resend_code: Поново пошаљи шифру
+      sign_in: Пријавите се
+      sign_up: Пријави се
+      want_to_receive_marketing_messages: Желим да примам маркетиншке поруке од Лингуа
+      we_ve_sent_a_code: >-
+        Послали смо шестоцифрени код на <стронг> {{емаил}} </стронг>. Код истиче за
+        15 минута, па га молимо унесите ускоро.
+    course:
+      accredited_course_provider: Акредитовани пружалац курсева
+      by: Од стране
+      apply: Применити
+      category: Категорија
+      clear: Јасно
+      clear_filters: Обриши филтере
+      contact_us: Контактирајте нас
+      course_language: Курс језика
+      duration: Трајање
+      filters: Филтери
+      focus_on: Фокусирати на
+      hide_lessons: Сакриј лекције
+      hours: Сати
+      i_understand: разумем
+      i_want_to_learn: Желим да учим
+      language: Језик
+      learn_more: Сазнајте више
+      less_settings: Мање подешавања
+      lessons: Лекције
+      lessons_available: зкзкзк0 доступних лекција
+      lessons_catalog_page_subtitle: Онлајн лекције за течно и самопоуздање
+      lessons_catalog_page_title: Научите језике лако и ефикасно уз Лингу
+      level: Ниво
+      min: Мин
+      more_settings: Више подешавања
+      or: или
+      plans: Планови
+      privacy_policy: Правила о приватности
+      rating: Оцена
+      reviews: Коментара
+      save: сачувати
+      search: Претрага
+      select_languages: Изаберите језике
+      select_num_languages: Изаберите зкзкзк0 језике
+      show_all_lessons: Покажи све лекције
+      show_lessons: Покажите зкзкзк0 лекције
+      show_more: Прикажи више
+      sort_by: Сортирај по
+      start_typing_here: Почните да куцате овде
+      teach: Учи
+      terms_and_conditions: Услови
+      try_this_course: Испробајте овај курс
+      website_language: Језик веб странице
+      words: Речи
+    games:
+      flashcard:
+        buttons:
+          finish: Заврши
+          next: Следећи
+          previous: Претходна
+        check_out_new_words: Погледајте нове речи које ћете научити у овој лекцији
+        frequency_of_word_usage: Учесталост употребе речи у зкзкзк0
+        keep_practice_to_learn_all_words: Прегледајте зкзкзк0 речи и хајде да играмо
+          неке игре!
+        word_frequency:
+          level1: Ретко се користи
+          level2: Ретко се користи
+          level3: Учесталост речи - средња
+          level4: Учесталост речи - средња
+          level5: Заједнички
+          level6: Веома честа
+      match_word:
+        click_and_move_each_word_to_counterpart: Кликните и преместите сваку реч у
+          одговарајућу групу
+        skip_tutorial: Хопп готов
+        time_is_up: Опп мед фарта!
+      word_nodes:
+        match_letters_to_form_word: Упарите слова да бисте формирали реч
+      word_waterfall:
+        do_not_hesitate: Убрзајмо!
+        go_to_next_exercise: Пређите на следећу вежбу
+        select_correct_translation: Изаберите тачно подударање
+        well_done: Добро урађено!
+    home_page:
+      hello: Здраво,
+      popular_lessons: Популарне лекције
+      show_more: Прикажи више
+      time: зкзкзк0 мин
+      today_lesson: Ваша лекција за данас
+      user_name: зкзкзк0!
+      words: зкзкзк0 речи
+    idle_screen:
+      by_author: од зкзкзк0
+      continue_lesson: Наставите лекцију
+      exit: Излаз
+      idle_message: Неактиван си неко време ...
+    lesson_page:
+      back_to_course_page: Повратак на страницу курса
+      continue_lesson: Наставите лекцију
+      followed: Затим
+      lesson_given: лекције
+      not_started: није почео
+      or: Или
+      part_complete: зкзкзк0% завршено
+      restart_lesson: Поново покренути
+      section_check: Проверавати
+      section_check_info: зкзкзк0 тестови
+      section_learn: Научи
+      section_learn_info: зкзкзк0 мин за гледање и читање
+      section_play: Игра
+      section_play_info: зкзкзк0 речи за вежбање
+      start_lesson: Започните лекцију
+      step_progress: зкзкзк0%
+      subscribe: Пратити
+      subscribed: Затим
+      subscribers: следбеници
+      time_min: зкзкзк0 мин
+      unsubscribe: Престани пратити
+      words_number: зкзкзк0 нове речи
+    lesson_task:
+      cancel_button: Поништити, отказати
+      check:
+        navigation_next: Следећи
+        navigation_previous: Претходна
+        navigation_skip: Прескочи
+      controls_panel:
+        font_size_button: Величина слова
+        high_contrast_button:
+          origin: Велики контраст
+          short: Контраст
+        hints_button: Савети
+        music_playback_button:
+          origin: Репродукција музике
+          short: Музика
+        sound_effects_button:
+          origin: Звучни ефекти
+          short: Звук
+      exit_button: Излаз
+      finish_button: Заврши
+      finished:
+        back_to_learn: Повратак на учење
+        back_to_lesson_page: Повратак на страницу лекције
+        back_to_results_page: Повратак на страницу резултата
+        close_lesson: Затвори лекцију
+        correct_answers_list: Листа тачних одговора
+        next_course_lesson: Идите на следећу лекцију на курсу
+        no_results: Још увек немате резултате теста
+        no_results_text: Молимо вас да попуните лекцију и положите тест да бисте добили
+          резултате
+        see_correct_answers_list: Погледајте листу тачних одговора
+        you_finished_lesson: Сјајно! Завршили сте лекцију
+      go_back: Вратити се
+      next_button: Следећи
+      not_available_task: Овај задатак још није доступан
+      start_button: Почетак
+      tasks:
+        check:
+          fill_in_table:
+            column_answer_placeholder: Одговор
+            column_question_placeholder: Питање
+            example: Пример
+        learn:
+          translatable_text:
+            show_original: Прикажи оригинал
+            translate_into: Преведите са Гоогле-ом на зкзкзк0
+            translate_into_your_lang: Преведите са Гоогле-ом на ваш језик
+        play:
+          arrange_words:
+            start_screen:
+              heading: Направи реченицу од датих речи
+          audition:
+            start_screen:
+              heading: Слушајте звук и додирните реч коју сте управо чули
+          fill_gap:
+            start_screen:
+              heading: Поклапајте реч и њено значење
+          finish_screen:
+            go_to_next_exercise: Добро урађено! Пређите на следећу вежбу
+          image_hotspot:
+            start_screen:
+              heading: Правилно именујте предмете на слици
+          image_object:
+            start_screen:
+              heading: Изаберите прави објекат са следеће слике
+          inline_dropdown:
+            start_screen:
+              heading: Изаберите речи које се подударају са реченицом
+          mark_word:
+            start_screen:
+              heading: Прочитајте текст и одаберите реч која одговара слици
+          minimal_pairs:
+            start_screen:
+              heading: Погледајте видео и изаберите тачну опцију
+    locale:
+      currency_switcher_title: Пребацивач валута
+      lang_switcher_title: Пребацивач језика
+      locales:
+        bg: Български
+        de: Деутсцх
+        en: енглески језик
+        es: Еспанол
+        fr: Францаис
+        it: Италиано
+        lt: Лиетувиу калба
+        lv: Латвиешу валода
+        nb: Норск
+        nl: Недерландс
+        pl: Полски
+        pt: Португуес
+        ro: Лимба романа
+        ru: Русскиј азик
+        so: од Соомаали
+        sr: Српски
+        sw: киСвахили
+        tr: Туркце
+        uk: Украинськанська
+    media_player:
+      audio_player:
+        aria_loading_button: Аудио се учитава
+        aria_pause_button: Пауза
+        aria_play_button: Игра
+        aria_reload_button: Освежи
+        aria_stop_button: Зауставити
+        reload_message: Учитавање звука није успело. Кликните дугме за поновно учитавање.
+    page404:
+      goToStartLessonPage: Идите на почетну страницу лекције
+      ooops: Ууупс ...
+      sorry_message: Жао нам је, Тор није могао да пронађе ову страницу
+    profile:
+      navigation:
+        log_out: Одјавити се
+        my_profile: Мој профил
+        settings: Подешавања
+      onboarding:
+        choose_native_language: Изаберите свој матерњи језик или језик који разумете
+        do_you_understand_english: Да ли разумеш енглески?
+        hello: Здраво
+        language_levels:
+          a1: Основни ниво
+          a2: Пре-средњи ниво
+          b1: Средњи ниво
+          b2: Горњи средњи ниво
+          c1: Напредни ниво
+          no_knowledge: Нема знања
+        language_not_supported:
+          note: Обавестићемо вас чим језик буде доступан
+          title: Жао нам је, али још увек не подржавамо овај језик
+          try_another_language: Испробајте други језик
+        'no': Не
+        search_placeholder: Претрага...
+        show_more_languages: Други језици
+        target_language_question: Који језик желите да научите?
+        what_is_language_level: Како бисте оценили ниво зкзкзк0?
+        'yes': да
+    teacher_card:
+      followers_count:
+        one: 1 следбеник
+        other: зкзкзк0 следбеника
+      lessons_count:
+        one: 1 лекција
+        other: зкзкзк0 лекције

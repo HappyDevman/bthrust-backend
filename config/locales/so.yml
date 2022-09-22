@@ -1,0 +1,282 @@
+---
+so:
+  frontend:
+    auth:
+      already_have_acc_question: Horey ma u leedahay koonto?
+      back: Dib u laabo
+      back_to_sign_in: Ku laabo Soo gal
+      check_your_email_for_a_code: Ka hubi emaylkaaga lambarkaaga
+      continue: Sii wad
+      continue_with_email: Ku sii wad emaylka
+      continue_with_provider: Ku sii soco %{provider}
+      did_not_receive_a_code: Ma helin lambar?
+      email_address: Cinwaanka emailka
+      first_name: Magaca hore
+      get_unique_code: Hel nambarka galitaanka ee gaarka ah
+      join_lingu: Ku soo biir Lingu
+      last_name: Magaca dambe
+      more_login_options: Fursadaha galitaanka badan
+      no_account_question: Ma lihid xisaab?
+      or: ama
+      resend_code: Dib u dir lambar
+      sign_in: Soo gal
+      sign_up: Saxiix
+      want_to_receive_marketing_messages: Waxaan rabaa inaan ka helo farriimaha suuqgeynta
+        Lingu
+      we_ve_sent_a_code: >-
+        Waxaan u dirnay nambar ka kooban 6 lambar <strong> {{email}} </strong>. Koodhku
+        wuxuu dhacayaa 15 daqiiqo, markaa fadlan goor dhow gal.
+    course:
+      accredited_course_provider: Bixiyaha koorsada la aqoonsan yahay
+      apply: Dalbo
+      by: Waxaa qoray
+      category: Qeybta
+      clear: Cad
+      clear_filters: Nadiifi miirayaasha
+      contact_us: Nala soo xiriir
+      course_language: Luqadda koorsada
+      duration: Muddada
+      filters: Shaandheeyeyaasha
+      focus_on: Xooga saar
+      hide_lessons: Qari casharada
+      hours: Saacado
+      i_understand: Waan fahmay
+      i_want_to_learn: Waxaan rabaa inaan barto
+      language: Luqadda
+      learn_more: Wax dheeri ah baro
+      less_settings: Dejinta yar
+      lessons: Casharo
+      lessons_available: "%{number} casharo la heli karo"
+      lessons_catalog_page_subtitle: Casharada khadka tooska ah ee hadalka iyo kalsoonida
+        leh
+      lessons_catalog_page_title: Baro luuqadaha si fudud & hufnaan leh Lingu
+      level: Heer
+      min: Min
+      more_settings: Dejinta badan
+      or: ama
+      plans: Qorshayaasha
+      privacy_policy: Qaanuunka Arrimaha Khaaska ah
+      rating: Qiimeynta
+      reviews: Faallooyinka
+      save: Keydso
+      search: Raadi
+      select_languages: Xulo langauges
+      select_num_languages: Xullo luqadaha %{number}
+      show_all_lessons: Tus dhammaan casharrada
+      show_lessons: Tus casharrada %{number}
+      show_more: Inbadan muuji
+      sort_by: Kala saar
+      start_typing_here: Ku bilow qorista halkan
+      teach: Bar
+      terms_and_conditions: Shuruudaha iyo Shuruudaha
+      try_this_course: Isku day koorsadan
+      website_language: Luqadda websaydhka
+      words: Erayada
+    games:
+      flashcard:
+        buttons:
+          finish: Dhameyso
+          next: Xiga
+          previous: Hore
+        check_out_new_words: Fiiri ereyada cusub ee aad ku baran doonto casharkaan
+        frequency_of_word_usage: Soo noqnoqoshada adeegsiga erayga %{language}
+        keep_practice_to_learn_all_words: Dib u eeg erayada %{count} oo aan ciyaarno
+          ciyaaro qaar!
+        word_frequency:
+          level1: Marar dhif ah ayaa la isticmaalay
+          level2: Marar dhif ah ayaa la isticmaalay
+          level3: Ereyga inta jeer - dhexdhexaad
+          level4: Ereyga inta jeer - dhexdhexaad
+          level5: Caadi ah
+          level6: Aad u caan ah
+      match_word:
+        click_and_move_each_word_to_counterpart: Dhagsii oo u dhaqaaq erey kasta dhiggiisa
+        skip_tutorial: Hopp over
+        time_is_up: Opp med farta!
+      word_nodes:
+        match_letters_to_form_word: Iswaafaji xarfaha si aad erey u sameysato
+      word_waterfall:
+        do_not_hesitate: Aynu xawaareyno!
+        go_to_next_exercise: Tag layliga xiga
+        select_correct_translation: Xullo ciyaar sax ah
+        well_done: Wanaagsan!
+    home_page:
+      hello: Waad salaaman tahay,
+      popular_lessons: Casharo caan ah
+      show_more: Inbadan muuji
+      time: "%{count} min"
+      today_lesson: Casharkaaga maanta
+      user_name: zxzxx0!
+      words: "%{count} ereyo"
+    idle_screen:
+      by_author: by Caweyska Dalmar
+      continue_lesson: Sii wad casharka
+      exit: Ka bax
+      idle_message: Mudo ayaad bilaa shaqo ahayd ...
+    lesson_page:
+      back_to_course_page: Ku noqo bogga koorsada
+      continue_lesson: Sii wad casharka
+      followed: La raacay
+      lesson_given: casharrada
+      not_started: lama bilaabin
+      or: Ama
+      part_complete: "%{percent}% dhameystiran"
+      restart_lesson: Dib u bilow
+      section_check: Hubi
+      section_check_info: tijaabooyinka %{count}
+      section_learn: Baro
+      section_learn_info: "%{count} min in la daawado oo la akhriyo"
+      section_play: Ciyaar
+      section_play_info: ereyada %{count} si loogu dhaqmo
+      start_lesson: Cashar bilow
+      step_progress: fartun
+      subscribe: Raac
+      subscribed: La raacay
+      subscribers: raacsan
+      time_min: "%{minutesNumber} min"
+      unsubscribe: Ka daaya
+      words_number: "%{wordsNumber} ereyo cusub"
+    lesson_task:
+      cancel_button: Jooji
+      check:
+        navigation_next: Xiga
+        navigation_previous: Hore
+        navigation_skip: Ka bood
+      controls_panel:
+        font_size_button: Cabirka farta
+        high_contrast_button:
+          origin: Farqiga sare
+          short: Isbarbar dhig
+        hints_button: Tilmaamo
+        music_playback_button:
+          origin: Loo maqli muusig
+          short: Muusig
+        sound_effects_button:
+          origin: Saamaynta dhawaaqa
+          short: Dhawaaq
+      exit_button: Ka bax
+      finish_button: Dhameyso
+      finished:
+        back_to_learn: Ku noqo barashada
+        back_to_lesson_page: Ku noqo bogga casharka
+        back_to_results_page: Ku noqo bogga natiijada
+        close_lesson: Casharka dhow
+        correct_answers_list: Liiska jawaabaha saxda ah
+        next_course_lesson: Koorsada xigta u aad koorsada
+        no_results: Weli wax natiijo ah oo baaritaan ah ma lihid
+        no_results_text: Fadlan, dhammee casharka oo u gudub imtixaanka si aad u hesho
+          natiijooyinka
+        see_correct_answers_list: Eeg liiska jawaabaha saxda ah
+        you_finished_lesson: Wanaagsan! Waxaad dhameysay casharka
+      go_back: Dib u laabo
+      next_button: Xiga
+      not_available_task: Hawshan weli lama hayo
+      start_button: Bilow
+      tasks:
+        check:
+          fill_in_table:
+            column_answer_placeholder: Jawaab
+            column_question_placeholder: Su’aal
+            example: Tusaale
+        learn:
+          translatable_text:
+            show_original: Muuji asalka
+            translate_into: Kaga turjun Google galka %{languageName}
+            translate_into_your_lang: Kaga turjun Google luqaddaada
+        play:
+          arrange_words:
+            start_screen:
+              heading: Samee jumlad ka mid ah ereyada la siiyay
+          audition:
+            start_screen:
+              heading: Dhageyso codka oo taabo erayga aad hadda maqashay
+          fill_gap:
+            start_screen:
+              heading: U dhigma ereyga iyo macnihiisa
+          finish_screen:
+            go_to_next_exercise: Wanaagsan! Tag layliga xiga
+          image_hotspot:
+            start_screen:
+              heading: U magacow walxaha ku yaal sawirka si sax ah
+          image_object:
+            start_screen:
+              heading: Ka soo qaado shayga saxda ah sawirka soo socda
+          inline_dropdown:
+            start_screen:
+              heading: Xullo ereyada u dhigma jumlada
+          mark_word:
+            start_screen:
+              heading: Akhriso qoraalka oo xulo ereyga u dhigma sawirka
+          minimal_pairs:
+            start_screen:
+              heading: Fiiri fiidiyowga oo xulo xulashada saxda ah
+    locale:
+      currency_switcher_title: Beddelka Lacagta
+      lang_switcher_title: Beddelaha luqadda
+      locales:
+        bg: Български
+        de: Deutsch
+        en: Ingiriis
+        es: Español
+        fr: Fransais
+        it: Italiano
+        lt: Lietuvių kalba
+        lv: Latviešu valoda
+        nb: Norsk
+        nl: Nederlands
+        pl: Polski
+        pt: Português
+        ro: Limba română
+        ru: Русский язык
+        so: af Soomaali
+        sr: Сербский
+        sw: kiSwahili
+        tr: Türkçe
+        uk: Українська
+    media_player:
+      audio_player:
+        aria_loading_button: Maqalka ayaa socda
+        aria_pause_button: Hakad
+        aria_play_button: Ciyaar
+        aria_reload_button: Dib u rar
+        aria_stop_button: Jooji
+        reload_message: >-
+          Waa lagu guuldareystay in la shido codka. Fadlan dhagsii badhanka si aad
+          dib u rarto.
+    page404:
+      goToStartLessonPage: Tag bogga casharka bilowga ah
+      ooops: Oooops ...
+      sorry_message: Waan ka xumahay, Tor ma uusan helin boggan
+    profile:
+      navigation:
+        log_out: Ka bax
+        my_profile: My profile
+        settings: Dejinta
+      onboarding:
+        choose_native_language: Xulo luqaddaada hooyo ama luqadda aad fahmayso
+        do_you_understand_english: Ma fahmaysaa Ingiriisiga?
+        hello: Waad salaaman tihiin
+        language_levels:
+          a1: Heerka dugsiga hoose
+          a2: Heer-dhexdhexaad dhexdhexaad ah
+          b1: Heer dhexe
+          b2: Heerka Dhexe ee Sare
+          c1: Heer sare
+          no_knowledge: Aqoon ma leh
+        language_not_supported:
+          note: Waanu kula soo socodsiin doonaa isla marka luqadda la helo
+          title: Waan ka xunnahay, laakiin weli ma taageerno luqaddan
+          try_another_language: Isku day luqad kale
+        'no': Maya
+        search_placeholder: Raadi ...
+        show_more_languages: Luqado kale
+        target_language_question: Luqadee rabtaa inaad barato?
+        what_is_language_level: Sideed u qiimeyn laheyd heerkaaga %{languageName}?
+        'yes': Haa
+    teacher_card:
+      followers_count:
+        one: 1 raaca
+        other: "%{count} raacsan"
+      lessons_count:
+        one: 1 cashar
+        other: "%{count} casharo"

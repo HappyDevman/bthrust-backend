@@ -1,0 +1,283 @@
+---
+lv:
+  frontend:
+    auth:
+      already_have_acc_question: Jau ir konts?
+      back: Atpakaļ
+      back_to_sign_in: Atpakaļ uz pierakstīšanos
+      check_your_email_for_a_code: Pārbaudiet, vai e-pastā nav koda
+      continue: Turpināt
+      continue_with_email: Turpiniet ar e-pastu
+      continue_with_provider: Turpiniet ar %{provider}
+      did_not_receive_a_code: Vai nesaņēmāt kodu?
+      email_address: Epasta adrese
+      first_name: Vārds
+      get_unique_code: Iegūstiet unikālu pieteikšanās kodu
+      join_lingu: Pievienojieties Lingu
+      last_name: Uzvārds
+      more_login_options: Citas pieteikšanās iespējas
+      no_account_question: Vai jums nav konta?
+      or: vai
+      resend_code: Nosūtīt kodu vēlreiz
+      sign_in: Ielogoties
+      sign_up: Pierakstīties
+      want_to_receive_marketing_messages: Es vēlos saņemt mārketinga ziņojumus no
+        Lingu
+      we_ve_sent_a_code: >-
+        Mēs esam nosūtījuši sešciparu kodu uz <strong> {{email}} </strong>. Kods beidzas
+        pēc 15 minūtēm, tāpēc, lūdzu, ievadiet to drīz.
+    course:
+      accredited_course_provider: Akreditēts kursu nodrošinātājs
+      apply: Piesakies
+      by: Autors
+      category: Kategorija
+      clear: Skaidrs
+      clear_filters: Notīrīt filtrus
+      contact_us: Sazinies ar mums
+      course_language: Kursa valoda
+      duration: Ilgums
+      filters: Filtri
+      focus_on: Koncentrēties uz
+      hide_lessons: Paslēpt nodarbības
+      hours: Stundas
+      i_understand: Es saprotu
+      i_want_to_learn: Es gribu iemācīties
+      language: Valoda
+      learn_more: Uzzināt vairāk
+      less_settings: Mazāk iestatījumu
+      lessons: Nodarbības
+      lessons_available: Pieejamas %{number} nodarbības
+      lessons_catalog_page_subtitle: Tiešsaistes nodarbības brīvai un pārliecinātai
+        runāšanai
+      lessons_catalog_page_title: Mācieties valodas viegli un efektīvi, izmantojot
+        Lingu
+      level: Līmenis
+      min: Min
+      more_settings: Vairāk iestatījumu
+      or: vai
+      plans: Plāni
+      privacy_policy: Privātuma politika
+      rating: Vērtējums
+      reviews: Atsauksmes
+      save: Saglabāt
+      search: Meklēt
+      select_languages: Atlasiet valodu
+      select_num_languages: Atlasiet %{number} valodas
+      show_all_lessons: Rādīt visas nodarbības
+      show_lessons: Rādīt %{number} nodarbības
+      show_more: Parādīt vairāk
+      sort_by: Kārtot pēc
+      start_typing_here: Sāciet rakstīt šeit
+      teach: Mācīt
+      terms_and_conditions: Noteikumi un nosacījumi
+      try_this_course: Izmēģiniet šo kursu
+      website_language: Vietnes valoda
+      words: Vārdi
+    games:
+      flashcard:
+        buttons:
+          finish: Pabeigt
+          next: Nākamais
+          previous: Iepriekšējais
+        check_out_new_words: Pārbaudiet jaunos vārdus, kurus iemācīsities šajā nodarbībā
+        frequency_of_word_usage: Vārdu lietošanas biežums %{language}
+        keep_practice_to_learn_all_words: Pārskatiet %{count} vārdus un spēlēsim dažas
+          spēles!
+        word_frequency:
+          level1: Reti izmanto
+          level2: Reti izmanto
+          level3: Vārda biežums - vidējs
+          level4: Vārda biežums - vidējs
+          level5: Bieži
+          level6: Ļoti bieži sastopams
+      match_word:
+        click_and_move_each_word_to_counterpart: Noklikšķiniet un pārvietojiet katru
+          vārdu uz tā līdzinieku
+        skip_tutorial: Apinis pāri
+        time_is_up: Opp med farta!
+      word_nodes:
+        match_letters_to_form_word: Sakrīt burtus, lai izveidotu vārdu
+      word_waterfall:
+        do_not_hesitate: Paātrināsimies!
+        go_to_next_exercise: Pārejiet uz nākamo vingrinājumu
+        select_correct_translation: Atlasiet pareizo atbilstību
+        well_done: Labi padarīts!
+    home_page:
+      hello: Sveiki,
+      popular_lessons: Populāras nodarbības
+      show_more: Parādīt vairāk
+      time: "%{count} min"
+      today_lesson: Tava šodienas nodarbība
+      user_name: "%{name}!"
+      words: "%{count} vārdi"
+    idle_screen:
+      by_author: autors %{authorName}
+      continue_lesson: Turpiniet nodarbību
+      exit: Izeja
+      idle_message: Jūs kādu laiku esat bijis dīkstāvē ...
+    lesson_page:
+      back_to_course_page: Atpakaļ uz kursa lapu
+      continue_lesson: Turpiniet nodarbību
+      followed: Sekoja
+      lesson_given: nodarbības
+      not_started: nav sākts
+      or: Or
+      part_complete: "%{percent}% pabeigts"
+      restart_lesson: Restartēt
+      section_check: Pārbaudiet
+      section_check_info: "%{count} testi"
+      section_learn: Uzziniet
+      section_learn_info: "%{count} min skatīties un lasīt"
+      section_play: Spēlēt
+      section_play_info: "%{count} vārdi, kurus praktizēt"
+      start_lesson: Sāciet nodarbību
+      step_progress: "%{percent}%"
+      subscribe: Sekojiet
+      subscribed: Sekoja
+      subscribers: sekotāji
+      time_min: "%{minutesNumber} min"
+      unsubscribe: Nesekot
+      words_number: "%{wordsNumber} jauni vārdi"
+    lesson_task:
+      cancel_button: Atcelt
+      check:
+        navigation_next: Nākamais
+        navigation_previous: Iepriekšējais
+        navigation_skip: Izlaist
+      controls_panel:
+        font_size_button: Fonta izmērs
+        high_contrast_button:
+          origin: Augsts kontrasts
+          short: Kontrasts
+        hints_button: Padomi
+        music_playback_button:
+          origin: Mūzikas atskaņošana
+          short: Mūzika
+        sound_effects_button:
+          origin: Skaņas efekti
+          short: Skaņa
+      exit_button: Izeja
+      finish_button: Pabeigt
+      finished:
+        back_to_learn: Atpakaļ, lai uzzinātu
+        back_to_lesson_page: Atpakaļ uz nodarbības lapu
+        back_to_results_page: Atpakaļ rezultātu lapā
+        close_lesson: Aizvērt nodarbību
+        correct_answers_list: Pareizo atbilžu saraksts
+        next_course_lesson: Dodieties uz nākamo kursa stundu
+        no_results: Jums vēl nav testa rezultātu
+        no_results_text: Lūdzu, pabeidziet stundu un nokārtojiet testu, lai iegūtu
+          rezultātus
+        see_correct_answers_list: Skatīt pareizo atbilžu sarakstu
+        you_finished_lesson: Lieliski! Jūs pabeidzāt stundu
+      go_back: Atgriezties
+      next_button: Nākamais
+      not_available_task: Šis uzdevums vēl nav pieejams
+      start_button: Sākt
+      tasks:
+        check:
+          fill_in_table:
+            column_answer_placeholder: Atbilde
+            column_question_placeholder: Jautājums
+            example: Piemērs
+        learn:
+          translatable_text:
+            show_original: Rādīt oriģinālu
+            translate_into: Tulkojiet ar Google uz %{languageName}
+            translate_into_your_lang: Tulkojiet ar Google savā valodā
+        play:
+          arrange_words:
+            start_screen:
+              heading: No dotajiem vārdiem izveido teikumu
+          audition:
+            start_screen:
+              heading: Klausieties audio un pieskarieties tikko dzirdētajam vārdam
+          fill_gap:
+            start_screen:
+              heading: Saskaņojiet vārdu un tā nozīmi
+          finish_screen:
+            go_to_next_exercise: Labi padarīts! Pārejiet uz nākamo vingrinājumu
+          image_hotspot:
+            start_screen:
+              heading: Pareizi nosauciet attēlā redzamos objektus
+          image_object:
+            start_screen:
+              heading: No nākamā attēla izvēlieties pareizo objektu
+          inline_dropdown:
+            start_screen:
+              heading: Izvēlieties vārdus, kas atbilst teikumam
+          mark_word:
+            start_screen:
+              heading: Izlasiet tekstu un atlasiet vārdu, kas atbilst attēlam
+          minimal_pairs:
+            start_screen:
+              heading: Noskatieties video un atlasiet pareizo opciju
+    locale:
+      currency_switcher_title: Valūtas maiņa
+      lang_switcher_title: Valodas pārslēdzējs
+      locales:
+        bg: Български
+        de: Deutsch
+        en: Angļu
+        es: Español
+        fr: Français
+        it: Italiano
+        lt: Lietuvių kalba
+        lv: Latviešu valoda
+        nb: Norsk
+        nl: Nederlands
+        pl: Polskis
+        pt: Português
+        ro: Limba română
+        ru: Русский язык
+        so: af Soomaali
+        sr: Сербский
+        sw: kiSwahili
+        tr: Türkçe
+        uk: Українська
+    media_player:
+      audio_player:
+        aria_loading_button: Audio tiek ielādēts
+        aria_pause_button: Pauze
+        aria_play_button: Spēlēt
+        aria_reload_button: Pārlādēt
+        aria_stop_button: Apstājies
+        reload_message: Neizdevās ielādēt audio. Lūdzu, noklikšķiniet uz pogas, lai
+          pārlādētu.
+    page404:
+      goToStartLessonPage: Dodieties uz sākuma stundas lapu
+      ooops: Hmm ...
+      sorry_message: Diemžēl Tor nevarēja atrast šo lapu
+    profile:
+      navigation:
+        log_out: Izlogoties
+        my_profile: Mans profils
+        settings: Iestatījumi
+      onboarding:
+        choose_native_language: Izvēlieties savu dzimto valodu vai valodu, kuru saprotat
+        do_you_understand_english: Vai tu saproti angļu valodu?
+        hello: Sveiki
+        language_levels:
+          a1: Pamatlīmenis
+          a2: Pirms vidējā līmeņa
+          b1: Vidējais līmenis
+          b2: Augšējais vidējais līmenis
+          c1: Paaugstināts līmenis
+          no_knowledge: Nav zināšanu
+        language_not_supported:
+          note: Mēs jums paziņosim, tiklīdz šī valoda būs pieejama
+          title: Atvainojiet, bet mēs vēl neatbalstām šo valodu
+          try_another_language: Izmēģiniet citu valodu
+        'no': Nē
+        search_placeholder: Meklēt...
+        show_more_languages: Citas valodas
+        target_language_question: Kādu valodu vēlaties apgūt?
+        what_is_language_level: Kā jūs vērtētu savu %{languageName} līmeni?
+        'yes': Jā
+    teacher_card:
+      followers_count:
+        one: 1 sekotājs
+        other: "%{count} sekotāji"
+      lessons_count:
+        one: 1 nodarbība
+        other: "%{count} nodarbības"
